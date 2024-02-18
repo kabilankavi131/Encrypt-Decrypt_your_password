@@ -15,10 +15,10 @@ A simple web application that allows users to encrypt and decrypt their password
 
 ## Screenshots
 
-[![Encrypt](screenshots/encrypt.png)](https://kabilankavi131.github.io/Encrypt-Decrypt_your_password/)
+[![Encrypt](./screenschots/encrypt.png)](https://kabilankavi131.github.io/Encrypt-Decrypt_your_password/)
 *Screenshot of the encryption process*
 
-[![Decrypt](screenshots/decrypt.png)](https://kabilankavi131.github.io/Encrypt-Decrypt_your_password/)
+[![Decrypt](./screenschots/decrypt.png)](https://kabilankavi131.github.io/Encrypt-Decrypt_your_password/)
 *Screenshot of the decryption process*
 
 ## Installation
